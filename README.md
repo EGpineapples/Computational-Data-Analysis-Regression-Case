@@ -1,7 +1,5 @@
 # Computational-Data-Analysis-Regression-Case
 
-# Computational Data Analysis - Case 1
-
 ## Overview
 This project involves building a predictive regression model for a dataset with 100 observations and 100 features (95 continuous, 5 categorical). The goal is to predict 1000 new observations and estimate the prediction error using RMSE.
 
