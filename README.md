@@ -34,7 +34,6 @@ This project involves building a predictive regression model for a dataset with 
 - Implemented a robust pre-processing pipeline to handle missing data and categorical variables
 - Performed model selection based on mean test error across multiple iterations
 
-- 
 ![image](https://github.com/EGpineapples/Computational-Data-Analysis-Regression-Case/assets/39887684/1e815775-3a4f-46b7-99d5-a37d1376d70e)
 
 ![image](https://github.com/EGpineapples/Computational-Data-Analysis-Regression-Case/assets/39887684/42cb817c-92e4-49e2-bb6f-989b7079902b)
